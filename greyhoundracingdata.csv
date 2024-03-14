@@ -1,0 +1,501 @@
+﻿Year,Number,CareerRaces,Name,Sex,Sire,Dam,Wins,Races,WinPercent,1st,2nd,3rd,WinDist,Top3
+2016,1,195,Flyin Bloodymary [US/US 2014],f,Rico's Vintage,Keeperraeepisode,42,85,0.49,42,13,12,302,67
+2016,2,172,Fly Danny Green [US/US 2013],m,BD's Grayson,Flying Claret,41,82,0.50,41,17,2,483,60
+2016,3,112,Seldom Told * [US/CN 2013],m,Trent Lee,Need a Date,35,47,0.74,35,4,1,523,40
+2016,4,230,Keeperdreamliner [US/US 2012],f,Pat C Clement,KB's Jumbo Jet,35,80,0.43,35,16,14,503,65
+2016,5,122,Oshkosh Kid [US/US 2013],m,Kiowa Mon Manny,Oshkosh Vani,34,57,0.59,34,11,6,603,51
+2016,6,127,Craigie Renegade [US/US 2014],m,KC and All,Toni Works,34,57,0.59,34,8,5,294,47
+2016,7,75,Oya Stan The Man [US/US 2014],m,Defrim Bale *,O Ya Norma,34,63,0.53,34,10,5,588,49
+2016,8,244,Real Good Feelin [US/US 2013],f,TMC's Remedy,Need a Date,34,72,0.47,34,7,6,503,47
+2016,9,87,Charlie Bale [US/US 2013],m,Lonesome Cry,Manyara Bale *,33,64,0.51,33,16,5,503,54
+2016,10,119,KB's Dagwood [US/US 2014],m,Kiowa Mon Manny,Iruska Kittle,31,66,0.46,31,7,9,503,47
+2016,11,165,Taye Diggs [US/US 2014],m,Flying Penske,SJ's Wild Flower,31,81,0.38,31,13,7,603,51
+2016,12,132,KC's Todd [US/US 2014],m,Djays Octane,Kane's Izzy,30,85,0.35,30,10,9,503,49
+2016,13,135,Fraulein Morgan [US/US 2013],f,Kiowa Mon Manny,Fraulein Kaci,29,57,0.50,29,9,7,603,45
+2016,14,166,Lego Andrew [US/US 2013],m,Kinloch Brae *,Danicas Go Daddy,29,66,0.43,29,12,5,503,46
+2016,15,190,Del Sol Stewart [US/US 2014],m,Starz Jenko,Bella Languish,29,92,0.31,29,16,10,499,55
+2016,16,114,Superior Tyson [US/US 2013],m,Dragon Fire,Superior Date,28,54,0.51,28,12,3,498,43
+2016,17,138,WW's Durangogold [US/US 2013],m,Gable Oscar,WW Sally Angie,28,60,0.46,28,12,7,503,47
+2016,18,161,WW's Kapow [US/US 2013],f,Gable Oscar,WW The Endisnigh,28,75,0.37,28,7,9,510,44
+2016,19,256,Jedi Maze Runner [US/US 2014],m,Joe Hearns,Jedi Blaze Starr,28,89,0.31,28,18,18,499,64
+2016,20,106,SE Tali Sundance [US/US 2013],m,KC and All,Flying Cassel,27,47,0.57,27,9,2,533,38
+2016,21,138,Ethel Is Here [US/US 2013],f,Trent Lee,J's Aiyssa,27,50,0.54,27,9,6,603,42
+2016,22,63,Mac's Harewood [US/US 2014],m,KC and All,Mac's Brenda Lee,27,51,0.52,27,10,6,503,43
+2016,23,145,Fiesta Paraguas [US/US 2013],m,BD's Grayson,Bella Wildwonder,27,53,0.50,27,6,3,533,36
+2016,24,166,WW Auto Sums [US/US 2013],m,Gale WW Wanika,WW's Arithmetic,27,54,0.50,27,9,4,503,40
+2016,25,109,Kinda Cruel Red [US/US 2014],m,Bella Infrared,Cruel to Be Kind,27,55,0.49,27,10,6,500,43
+2016,26,76,Lonnie [US/US 2014],f,Bella Infrared,Kat O Nine Tails,27,56,0.48,27,8,6,503,41
+2016,27,107,Flying Bass [US/US 2014],m,BD's Grayson,Flying Liddy,27,68,0.39,27,5,6,503,38
+2016,28,155,PJ Backupoffme [US/US 2014],m,Djays Octane,Pampered Becky,27,72,0.37,27,13,9,503,49
+2016,29,251,Volando Zarda [US/US 2013],f,Kiowa Sweet Trey,Bella Kona,27,72,0.37,27,12,12,499,51
+2016,30,149,Barts Risingstar [US/US 2013],m,Buzz Around,Barts Marigold,27,78,0.34,27,17,7,617,51
+2016,31,97,Show On The Road [US/US 2013],m,KC and All,Closin In Onawin,26,47,0.55,26,8,2,659,36
+2016,32,145,Fly John Kasich [US/US 2014],m,Kiowa Sweet Trey,Flyin Ravenswood,26,60,0.43,26,10,8,503,44
+2016,33,222,WW's Sammy [US/US 2013],f,Bella Infrared,WW Kay Sun,26,68,0.38,26,13,7,503,46
+2016,34,69,Martha MacCallum [US/US 2014],f,Flying Westover,Johara,25,33,0.75,25,3,1,503,29
+2016,35,77,Blu Too Tarmac [US/US 2014],m,SH Avatar,Gable Go Shaunee,25,64,0.39,25,12,5,498,42
+2016,36,276,BJ's Narrow End [US/US 2014],f,WW's Dog Gone,WW The Endisnigh,25,69,0.36,25,21,5,494,51
+2016,37,105,MV's Patriots [US/US 2014],f,Flying Penske,WW Sally Ally,25,74,0.33,25,19,9,507,53
+2016,38,140,Mac's Melanie [US/US 2013],f,Flying Coal City,Mac's Dr Cameron,25,84,0.29,25,9,1,503,35
+2016,39,132,Slatex Marissa [US/US 2014],f,Kiowa Sweet Trey,Slatex Magnesium,25,95,0.26,25,20,12,499,57
+2016,40,109,Super Sport Sid [US/US 2014],m,Red Rooster Bonz,Hail Storm Bones,25,101,0.24,25,10,14,499,49
+2016,41,119,Need My Moneynow [US/US 2012],m,No More Loving,Need a Date,24,38,0.63,24,6,1,503,31
+2016,42,129,Varoom Esme [US/US 2013],f,Kiowa Mon Manny,Flying Bassey,24,51,0.47,24,12,4,501,40
+2016,43,199,Hey Hey Daddy [US/US 2013],f,TMC's Remedy,Need a Date,24,54,0.44,24,8,7,503,39
+2016,44,104,Boc's Jazzy Jeff [US/US 2013],m,KC and All,Boc's Magic Wand,24,54,0.44,24,2,4,503,30
+2016,45,89,LK's Clydesdale [US/US 2014],m,LK's Now R Never,LK's Tiara,24,56,0.42,24,15,5,503,44
+2016,46,113,TR's Flapjack [US/US 2013],m,Flying Coal City,Gretchen Oswalt,24,57,0.42,24,15,2,503,41
+2016,47,94,Katie Crews [US/US 2013],f,Trent Lee,Awesome Fling,24,57,0.42,24,7,4,503,35
+2016,48,152,Hi Noon Viper [US/US 2014],m,Trent Lee,Hi Noon Rhapsody,24,72,0.33,24,15,8,504,47
+2016,49,168,Flying Rose [US/US 2014],f,Hi Noon Hero *,WKL Marly Carly,24,74,0.32,24,9,12,503,45
+2016,50,76,Yolo Andrew [US/US 2014],m,Trent Lee,Bella Riddle,24,76,0.31,24,14,4,499,42
+2016,51,42,Mac's Olympia [US/US 2014],f,Djays Octane,Mac's Needlenose,23,40,0.57,23,5,7,593,35
+2016,52,171,Underfire [US/US 2013],f,Maryville Rumble *,MRL Tootalou,23,45,0.51,23,3,8,503,34
+2016,53,167,GLS Running Red [US/US 2014],m,Bella Infrared,Slatex Cadillac,23,49,0.46,23,5,3,503,31
+2016,54,63,Go Big Or Gohome [US/US 2014],m,Bella Infrared,Cruel to Be Kind,23,52,0.44,23,2,4,499,29
+2016,55,171,Nashapelli [US/US 2013],m,Bella Infrared,Bella Basil,23,53,0.43,23,10,5,533,38
+2016,56,126,Boc's Wanna Know [US/US 2013],f,Krypto Drive,Boc's Now U Dont,23,59,0.38,23,13,6,503,42
+2016,57,141,Oaks Maddy [US/US 2013],f,Pat C Clement,Oaks Gem Brandy,23,61,0.37,23,5,8,533,36
+2016,58,165,WW's Nirvana [US/US 2014],m,Last Outlaw,WW's Risky Devil,23,65,0.35,23,12,7,648,42
+2016,59,89,TC Wonder Woman [US/US 2014],f,Kiowa Mon Manny,Bow My Way,23,79,0.29,23,19,6,503,48
+2016,60,188,Afly Lady Gaga [US/US 2013],f,Dragon Fire,USS Out of Sight,23,82,0.28,23,12,9,302,44
+2016,61,294,Killer Grumpy [US/US 2014],m,KC and All,Slatex Monaco,23,96,0.23,23,7,6,499,36
+2016,62,124,Kentucky Kat [US/US 2014],f,Pat C Clement,Kentucky Jude,22,40,0.55,22,8,1,503,31
+2016,63,156,Pat C [US/US 2012],f,KC and All,Operation Scorch,22,40,0.55,22,6,3,503,31
+2016,64,122,Mike Huckabee [US/US 2013],m,Trent Lee,Twinkles,22,51,0.43,22,5,7,580,34
+2016,65,113,Oya Pawtycrasher [US/US 2014],m,Dragon Fire,O Ya Queenie,22,52,0.42,22,13,9,507,44
+2016,66,195,Atascocita Bevo [US/US 2014],m,Atascocita Bowl,Atascocita Avery,22,53,0.41,22,8,6,286,36
+2016,67,145,DS Butterscotch [US/US 2013],f,BD's Grayson,DS Mariah,22,59,0.37,22,9,6,503,37
+2016,68,181,WW's Cobalt Claw [US/US 2014],m,BD's Herby,WW Crystal Clear,22,66,0.33,22,12,8,512,42
+2016,69,196,JJB Boss Man [US/US 2013],m,Kelsos Fusileer,JJB Dibaba,22,70,0.31,22,14,8,503,44
+2016,70,192,Pepper Cream [US/US 2013],m,Coldwater Torres,Coffee Creamer,22,73,0.30,22,20,6,275,48
+2016,71,197,Roc A By Sunkist [US/US 2014],f,Flyin Man of God,Roc a By It's E,22,77,0.28,22,1,5,516,28
+2016,72,158,Fiesta Friday [US/US 2014],m,Starz Jenko,Bella Diabolic,22,78,0.28,22,14,7,499,43
+2016,73,168,Ultra Champion [US/US 2014],f,KC and All,Ready Set Gone,22,83,0.26,22,10,10,499,42
+2016,74,94,Red Utopian [US/US 2013],f,KC and All,Sweetest Revenge,21,33,0.63,21,2,1,503,24
+2016,75,89,Mega Revelation [US/US 2014],f,Bella Infrared,Primed Az Mailie,21,42,0.50,21,10,5,599,36
+2016,76,119,O Ya Spike [US/US 2013],m,Kiowa Sweet Trey,O Ya Queenie,21,45,0.46,21,7,5,503,33
+2016,77,245,Rockin Best [US/US 2012],m,Rhythmless,Oh Yeah Baby,21,49,0.42,21,10,6,286,37
+2016,78,117,Fiesta Travel [US/US 2013],f,Bella Infrared,Starz Melt Away,21,50,0.42,21,9,8,744,38
+2016,79,64,Flying Music [US/US 2014],f,BD's Grayson,Flying Liddy,21,54,0.38,21,2,2,513,25
+2016,80,124,Godzilla Who [US/US 2014],m,Who Says I Can't,Imageofanangel,21,55,0.38,21,3,1,503,25
+2016,81,89,Super C Ariel [US/US 2014],f,KC and All,Super C Arias,21,56,0.37,21,9,9,501,39
+2016,82,97,Arkans Kangaroo [US/US 2014],f,Defrim Bale *,Arkans BD Spring,21,58,0.36,21,5,3,531,29
+2016,83,73,Tim Wooley [US/US 2014],m,Fuzzys Cannon,Awesome Fling,21,61,0.34,21,13,10,503,44
+2016,84,158,Mac's Gossie [US/US 2013],f,Defrim Bale *,Mac's Ruby Red,21,64,0.32,21,8,8,561,37
+2016,85,85,Spitfire Wynona [US/US 2014],f,Burley Boy Bones,Amazing Abigail,21,75,0.28,21,10,10,499,41
+2016,86,284,JW's Heman [US/US 2014],m,Last Outlaw,Inkan Girl,21,83,0.25,21,31,14,499,66
+2016,87,147,WW's Flutterbye [US/US 2014],m,Flying Hydrogen,WW's Shamrock,21,105,0.20,21,10,15,499,46
+2016,88,177,FM Patcee [US/US 2014],f,Pat C Clement,FM Sapphire,20,37,0.54,20,3,2,503,25
+2016,89,95,Whirlin Toodlelu [US/US 2014],f,Djays Octane,Loud Linda,20,49,0.40,20,8,4,498,32
+2016,90,146,AMF Sweetassugar [US/US 2013],f,Gable Sour Cream,AMF Blazing Sun,20,52,0.38,20,6,9,503,35
+2016,91,118,Killer Olympia [US/US 2013],f,Dragon Fire,Killer Tiger,20,56,0.35,20,7,2,503,29
+2016,92,65,GLS Lover Boy [US/US 2014],m,BD's Grayson,Slatex Diamond,20,57,0.35,20,12,8,590,40
+2016,93,134,ST Candy Cooler [US/US 2013],f,Kiowa Sweet Trey,Craigie Wee Slip,20,59,0.33,20,14,7,302,41
+2016,94,84,Flying Bosnian [US/US 2014],f,BD's Grayson,Flying Rushin By,20,59,0.33,20,7,6,515,33
+2016,95,160,KB's Vanitie [US/US 2014],f,Kiowa Mon Manny,Iruska Kittle,20,62,0.32,20,7,6,513,33
+2016,96,116,P's Pak [US/US 2014],f,P's Gibbs,WWW Boss Cruze,20,62,0.32,20,7,6,503,33
+2016,97,141,Pullanallnighter [US/US 2014],f,KC and All,Rain Over Me,20,67,0.29,20,13,10,503,43
+2016,98,172,WW's Royce [US/US 2013],m,WW's Dog Gone,WW Key Kap Rosy,20,70,0.28,20,24,10,503,54
+2016,99,147,PJ Collegecreepn [US/US 2013],m,Rhythmless,KB's College Cat,20,73,0.27,20,10,11,503,41
+2016,100,178,Roc A By Sevenup [US/US 2014],m,Flyin Man of God,Roc a By It's E,20,76,0.26,20,7,11,503,38
+2017,1,143,RT's Bo Jangles [US/US 2015],m,Kiowa Mon Manny,Penrose Karrie,42,67,0.62,42,10,4,503,56
+2017,2,244,Real Good Feelin [US/US 2013],f,TMC's Remedy,Need a Date,37,83,0.44,37,18,10,503,65
+2017,3,120,L's Tanza [US/US 2014],f,KC and All,L's Spidey,34,66,0.51,34,9,10,286,53
+2017,4,202,Midnight Loot [US/US 2015],f,Soprano Drive,World of My Own,32,74,0.43,32,10,5,477,47
+2017,5,128,Konomi [US/US 2015],m,SH Avatar,Money Maid,31,44,0.70,31,7,1,506,39
+2017,6,87,Magnetic Drive [US/US 2014],m,Flying Westover,Johara,30,45,0.66,30,6,1,616,37
+2017,7,116,Flying Wolf Pack [US 2014],m,Flying Lone Wolf,PJ Aces Up,30,61,0.49,30,9,7,533,46
+2017,8,128,Fiesta Crimson [US/US 2015],f,Flying Hydrogen,Flying Rainelle,29,83,0.34,29,9,8,501,46
+2017,9,167,GLS Running Red [US/US 2014],m,Bella Infrared,Slatex Cadillac,28,53,0.52,28,4,4,503,36
+2017,10,187,JS Lucky Turbo [US/US 2014],m,Turbo Lennie,JS Call Me Lucky,28,61,0.45,28,8,5,503,41
+2017,11,156,Premium Grade [US/US 2015],m,Djays Octane,Jet Force,27,47,0.57,27,4,2,504,33
+2017,12,118,Grumpy Winner [US/US 2014],m,Who Says I Can't,Bee's a Winner,27,52,0.51,27,5,12,503,44
+2017,13,146,Kristen K [US/US 2013],f,Flying Coal City,Kuro Barb,27,55,0.49,27,10,5,503,42
+2017,14,124,John Valazquez [US/US 2015],m,Dragon Fire,Awesome Fling,27,65,0.41,27,11,6,503,44
+2017,15,199,Hey Hey Daddy [US/US 2013],f,TMC's Remedy,Need a Date,27,70,0.38,27,13,5,503,45
+2017,16,189,WW Jaggermeister [US/US 2014],f,Kiowa WW Brother,WW's Baby Bonnet,27,75,0.36,27,20,10,599,57
+2017,17,132,Slatex Marissa [US/US 2014],f,Kiowa Sweet Trey,Slatex Magnesium,26,37,0.70,26,6,4,499,36
+2017,18,124,L's Lissie [US/US 2014],f,KC and All,L's Spidey,26,56,0.46,26,9,4,503,39
+2017,19,107,CRT Nino [US/US 2014],m,Dragon Fire,Gameboy Bambi,26,58,0.44,26,8,5,503,39
+2017,20,143,Killer Onyx [US/US 2015],m,Djays Octane,Killer Rebecca,26,60,0.43,26,12,4,503,42
+2017,21,244,JMB's Boston [US/US 2014],m,Kelsos Blackburn,Kelsos Pandora,26,100,0.26,26,20,8,499,54
+2017,22,139,Flying Godzilla [US/US 2015],m,Iruska All Star,Flying Lipstick,25,50,0.50,25,6,4,504,35
+2017,23,71,KB's Baymax [US/US 2015],f,Rhythmless,Miss Adelaide,25,65,0.38,25,5,4,501,34
+2017,24,144,DKC Buckshot [US/US 2015],m,Tyrur Alex *,Magic Torpedo,25,66,0.37,25,9,6,318,40
+2017,25,114,Cry Albert [US/US 2014],m,Cry Concho,Rico's Bristol,25,79,0.31,25,11,8,302,44
+2017,26,209,JS Bail Me Out [US/US 2015],f,KC and All,JS Summer Hummer,24,56,0.42,24,9,4,503,37
+2017,27,148,P's Smoky [US/US 2014],m,Kiowa Wish Frank,P Kay Goast Gal,24,56,0.42,24,12,7,503,43
+2017,28,115,JS Gowen Getter [US/US 2015],f,KC and All,JS Summer Hummer,24,58,0.41,24,7,7,503,38
+2017,29,134,LN Michaels [US/US 2015],m,Vee Man Vane,USS Out of Sight,24,69,0.34,24,10,7,502,41
+2017,30,98,Oshkosh Fired Up [US/US 2014],f,Oshkosh Lamont,Oshkosh Pebbles,24,70,0.34,24,17,9,503,50
+2017,31,82,Live And Learn [US/US 2015],f,Defrim Bale *,Tracy Chapman,24,72,0.33,24,11,11,553,46
+2017,32,138,WW's Brute Spice [US/US 2014],m,WW Always N Ever,WW's Brute Force,24,73,0.32,24,23,11,302,58
+2017,33,76,LK's Black Gold [US/US 2015],f,Jack's Big Lad,LK's Live Wire,23,45,0.51,23,8,6,503,37
+2017,34,92,Imark Keefer [US/US 2014],m,Bella Infrared,Casino Zada,23,54,0.42,23,10,5,503,38
+2017,35,191,Bartsrunninloose [US/US 2014],m,Pat C Clement,Barts Magpie,23,55,0.41,23,13,9,603,45
+2017,36,183,Jax Hunk Junkie [US/US 2014],m,PG Tiger,Jax Beer Hunter,23,58,0.39,23,8,3,503,34
+2017,37,164,Odds Are Good [US/US 2013],m,Surf Lorian,Share The Glory,23,65,0.35,23,13,3,495,39
+2017,38,174,Boc's Evander [US/US 2014],f,Flying Penske,Boc's C Kate Run,23,66,0.34,23,4,7,507,34
+2017,39,174,Fiesta Dee Dee [US/US 2014],f,Bella Cubanaro,WW Kay Root Beer,23,78,0.29,23,16,12,499,51
+2017,40,115,Yolo Adrienne [US/US 2015],f,Trent Lee,Mega India,23,95,0.24,23,18,10,499,51
+2017,41,45,Tip Top [US/CN 2016],m,Barcelona Boss,Kiowa Starz Sage,22,28,0.78,22,3,1,498,26
+2017,42,224,SE's Punisher [US/US 2014],m,Pat C Clement,Demo Classy,22,50,0.44,22,10,3,503,35
+2017,43,141,Super C Martha [US/US 2014],f,KC and All,Sweet On Adele,22,51,0.43,22,9,8,498,39
+2017,44,197,WW's Sassy Chick [US/US 2014],f,Last Outlaw,WW Quick Chick,22,63,0.34,22,15,9,311,46
+2017,45,94,Brian Ernst [US/US 2015],m,Street Credit,Kelsi Purcell,22,65,0.33,22,14,8,503,44
+2017,46,81,Bob's Dak [US/US 2015],f,P's Gibbs,Bob's Deb,21,32,0.65,21,2,2,503,25
+2017,47,138,Barts Outofmyway [US/US 2014],m,KC and All,Seadon Enchanted,21,47,0.44,21,4,3,501,28
+2017,48,140,AMF Ex Quigley [US/US 2013],m,AMF Ex President,CTW Quizzical,21,55,0.38,21,7,7,501,35
+2017,49,125,Dutch Double [US/US 2015],m,Flying Hydrogen,Dutch Dinah,21,58,0.36,21,5,6,504,32
+2017,50,98,Tyrone Meirs [US/US 2015],m,BD's Grayson,Life Is Good,21,59,0.35,21,8,6,593,35
+2017,51,165,Deva Hopewell [US/US 2014],f,KC and All,D's Overthemoon,21,65,0.32,21,7,5,503,33
+2017,52,197,CG's Dyno Mite [US/US 2014],m,Fuzzys Cannon,Jax Grace,21,73,0.28,21,13,8,503,42
+2017,53,127,Craigie Renegade [US/US 2014],m,KC and All,Toni Works,20,40,0.50,20,6,6,305,32
+2017,54,54,LB's Tam Trooper [US/US 2015],m,Soprano Drive,Kiowa Tam Tippie,20,41,0.48,20,8,3,503,31
+2017,55,175,Par Blackie [US/US 2014],f,BD's Grayson,Brett Lee Mallie,20,46,0.43,20,3,8,503,31
+2017,56,124,JD Dignity [US/US 2014],m,JD Titanium,JD Versace,20,48,0.41,20,5,10,503,35
+2017,57,97,Superior Cannon [US 2015],m,Kiowa Sweet Trey,Superior Chacha,20,53,0.37,20,12,6,502,38
+2017,58,183,PJ Peytonmanning [US/US 2014],m,Pat C Clement,Canttellmenothin,20,55,0.36,20,9,13,639,42
+2017,59,150,MM's Nate [US/US 2014],m,Last Outlaw,Keeper Forever,20,57,0.35,20,11,6,503,37
+2017,60,102,Wow Time Flies [US/US 2014],f,KC and All,I Can,20,57,0.35,20,7,8,603,35
+2017,61,118,Sangria [US/US 2014],f,Gable Sour Cream,T's Hell Onheels,20,58,0.34,20,14,6,503,40
+2017,62,144,SH Norio [US/US 2014],f,SH Avatar,Money Maid,20,58,0.34,20,9,8,503,37
+2017,63,233,LB's Food Court [US/US 2014],f,Aerial Battle,KL Elaborate Eva,20,60,0.33,20,11,11,538,42
+2017,64,171,Nashapelli [US/US 2013],m,Bella Infrared,Bella Basil,20,63,0.31,20,10,6,533,36
+2017,65,153,Char Vallon [US/US 2015],f,Djays Octane,Hail Storm Bones,20,65,0.30,20,11,10,498,41
+2017,66,136,SE's Wepon X [US/US 2014],m,Pat C Clement,Demo Classy,20,65,0.30,20,12,9,503,41
+2017,67,150,WW Cold As Ice [US/US 2014],f,Bonafide Top Dog,WW's Wine Cooler,20,70,0.28,20,8,12,503,40
+2017,68,209,BGR My Girl [US/US 2015],f,SH Avatar,Boc's Good Carma,20,71,0.28,20,5,7,503,32
+2017,69,124,WW Wreckin Ball [US/US 2014],f,WW Apple Jax,WW's Hay Wire,20,72,0.27,20,9,6,499,35
+2017,70,234,RPG Sharper [US/US 2015],m,Sure As,Rico's Borla,20,74,0.27,20,8,6,422,34
+2017,71,225,Bikini Beasley [US/US 2014],m,KC and All,Bikini Atoll,20,93,0.21,20,9,13,503,42
+2017,72,294,Killer Grumpy [US/US 2014],m,KC and All,Slatex Monaco,20,99,0.20,20,13,6,499,39
+2017,73,85,LK's Centuria [US/US 2014],f,SH Avatar,LK's Mischievous,19,37,0.51,19,3,2,603,24
+2017,74,78,RF River [US/US 2014],f,KC and All,AF Nala,19,47,0.40,19,8,8,503,35
+2017,75,62,Flying Riverwood [US/US 2015],f,Flying Hydrogen,Keeper Wedgewood,19,47,0.40,19,6,3,503,28
+2017,76,195,Flyin Bloodymary [US/US 2014],f,Rico's Vintage,Keeperraeepisode,19,48,0.39,19,4,6,302,29
+2017,77,79,Hot Prospect Gal [US/US 2014],f,Last Outlaw,Flaring Fiesta,19,48,0.39,19,10,6,498,35
+2017,78,87,Red Handed [US/US 2015],m,Shonn,Kelsos Linda Ash,19,49,0.38,19,11,5,744,35
+2017,79,66,BGR J Peralta [US/US 2015],m,Vee Man Vane,Superior Pettini,19,50,0.38,19,4,4,514,27
+2017,80,119,Mega Gage [US/US 2015],m,BD's Grayson,Bella Languish,19,56,0.33,19,10,9,499,38
+2017,81,171,B My Mallory [US/US 2014],f,Flying Coal City,Kentucky Ashley,19,57,0.33,19,14,8,503,41
+2017,82,169,Blackjack Rolo [US/US 2015],m,Djays Octane,Blackjack Ignite,19,58,0.32,19,14,9,498,42
+2017,83,134,Monkey Way [US/US 2014],f,Cheeky Monkey,Bow My Way,19,59,0.32,19,5,2,533,26
+2017,84,124,Kentucky Kat [US/US 2014],f,Pat C Clement,Kentucky Jude,19,59,0.32,19,13,10,503,42
+2017,85,99,FGF Josie [US/US 2014],f,Bella Infrared,HK's Apocalypse,19,64,0.29,19,18,8,503,45
+2017,86,185,L's Sum Dog [US/US 2015],m,Lonesome Cry,L's Rovi,19,66,0.28,19,18,8,503,45
+2017,87,119,WW Next Bigthing [US/US 2015],m,Bella Infrared,WWK Big Money,19,70,0.27,19,12,3,509,34
+2017,88,105,Deneen Borelli [US 2015],f,KC and All,Suemaguireonfire,19,70,0.27,19,9,8,491,36
+2017,89,84,Flying Origen [US/US 2015],m,Kiowa Sweet Trey,Flying Perpetua,19,71,0.26,19,17,10,460,46
+2017,90,197,WK Realtree [US/US 2014],f,Kiowa Mon Manny,Craigie Wee Slip,19,83,0.22,19,5,8,492,32
+2017,91,285,Lee Raven [US/US 2013],f,Flying Penske,Lee Devin,19,92,0.20,19,19,13,503,51
+2017,92,281,Spitfire Winnie [US/US 2014],f,Burley Boy Bones,Amazing Abigail,19,93,0.20,19,11,8,499,38
+2017,93,424,Bella Rodan [US/US 2014],f,Craigie Whistler,Kelsos Pandora,19,95,0.20,19,21,9,499,49
+2017,94,240,Swiss Hammer [US/US 2015],f,KC and All,Abilene Abby,19,99,0.19,19,19,12,513,50
+2017,95,84,Flying Narrative [US/US 2015],m,BD's Grayson,Flying Monett,18,53,0.33,18,10,6,503,34
+2017,96,83,LK's Good Works [US/US 2014],m,Jack's Big Lad,LK's Caprica,18,53,0.33,18,3,1,503,22
+2017,97,81,Pondas Timezone [US/US 2015],f,Pat C Clement,Ponda's Khiehra,18,53,0.33,18,7,5,503,30
+2017,98,104,Wiggleit Alilbit [US/US 2014],f,Gable Dodge,Philly Soul,18,56,0.32,18,9,7,503,34
+2017,99,167,C Ville Kree [US/US 2014],f,Flying Coal City,Kristen Uhl,18,70,0.25,18,6,8,503,32
+2017,100,131,Fiesta Ariana [US/US 2015],f,BD's Grayson,Bella Wildwonder,18,86,0.20,18,8,7,499,33
+2018,1,111,Jiminy Reno [US/US 2016],m,Alivefortomorrow,Oceania,44,76,0.57,44,10,6,503,60
+2018,2,125,Enjoy The View [US/US 2016],f,Kinloch Brae *,I Can,36,99,0.36,36,28,6,499,70
+2018,3,143,RT's Bo Jangles [US/US 2015],m,Kiowa Mon Manny,Penrose Karrie,33,49,0.67,33,9,0,503,42
+2018,4,92,BGR Monster [US/US 2016],m,Boc's Tony Romo *,Boc's Jennyfinch,32,61,0.52,32,12,7,621,51
+2018,5,105,Undehfeetedd [US/US 2016],m,Dewzee,Nyari,32,66,0.48,32,13,8,502,53
+2018,6,159,Fiesta Nancy [US/US 2016],f,Bella Infrared,Mega Felpa,32,94,0.34,32,21,11,499,64
+2018,7,202,Bella Funston [US/US 2016],m,Trent Lee,BW's Unida,30,108,0.27,30,9,7,499,46
+2018,8,96,DS Rudolph [US/US 2015],m,TMC's Remedy,DS Challenger,29,64,0.45,29,8,7,599,44
+2018,9,159,JD Revelation [US/US 2016],f,KC and All,JD Andromeda,28,53,0.52,28,7,3,503,38
+2018,10,101,Bob's Ben [US/US 2015],m,P's Gibbs,Bob's Deb,28,66,0.42,28,23,5,503,56
+2018,11,258,Strong Desire [US/US 2016],f,Pat C Clement,Ocean Avenue,28,113,0.24,28,11,19,499,58
+2018,12,210,WW Hypnotized [US/US 2016],f,Barcelona Boss,WW's Sweetie,28,128,0.21,28,21,10,499,59
+2018,13,56,B Ballin Chad [US/US 2016],m,Djays Octane,B My Erica,27,48,0.56,27,7,5,515,39
+2018,14,135,Super C Azelle [US/US 2016],f,Superior Panama,Sweet On Adele,27,50,0.54,27,10,6,503,43
+2018,15,157,Be Par Salem [US/US 2016],f,Super Lee,BF Flying Grace,27,52,0.51,27,12,8,275,47
+2018,16,114,JT's In The Bank [US/US 2016],m,Pat C Sabbath *,Julianne Hough,27,58,0.46,27,12,7,498,46
+2018,17,118,Brutus Beefcake [US 2015],m,Flying Westover,Barb N Betty,27,61,0.44,27,3,2,495,32
+2018,18,160,L's Griz [US/US 2016],m,KC and All,L's Rovi,27,67,0.40,27,7,9,497,43
+2018,19,124,TNT Fist Fight [US/US 2016],m,Flying Fired Up,Go Bon Freebee,27,69,0.39,27,11,8,503,46
+2018,20,167,AMF Streaky [US/US 2016],f,Djays Octane,AMF Dark Streak,27,71,0.38,27,12,8,503,47
+2018,21,91,Never Up [US/US 2016],f,Bella Incubus,Mega Okaloosa,27,91,0.29,27,11,9,499,47
+2018,22,205,Yolo Kanani [US/US 2015],f,Dragon Fire,Bella Pohoa,27,93,0.29,27,17,6,499,50
+2018,23,225,Volando Batucoa [US/US 2015],f,NMS Sweet Thing,Kiowa Brown Babs,27,107,0.25,27,19,20,499,66
+2018,24,337,Lil Hank [US/US 2014],m,Flying Coal City,CTW Lilwhitelie,27,121,0.22,27,12,11,499,50
+2018,25,81,Ultra Emily [US/US 2016],f,U Too Pure Silk,Blackjack Emily,26,58,0.44,26,12,4,283,42
+2018,26,103,JD Rob Roy [US/US 2015],m,Hi Noon Hero *,Flying Alloy,26,59,0.44,26,12,6,302,44
+2018,27,189,AMF Neverthought [US/US 2015],f,Djays Octane,AMF Bone Chip,26,64,0.40,26,18,13,503,57
+2018,28,154,Flamenco Dancer [US/US 2016],f,Barcelona Boss,Lets Go Flying,26,73,0.35,26,21,10,503,57
+2018,29,243,Volando Lunar [US/US 2016],m,Flying Sebastian,Flying New Moon,26,134,0.19,26,13,18,499,57
+2018,30,128,Konomi [US/US 2015],m,SH Avatar,Money Maid,25,56,0.44,25,8,8,533,41
+2018,31,197,Kentucky Boy [US/US 2015],m,SH Avatar,Kentucky Fire,25,76,0.32,25,16,12,503,53
+2018,32,177,Yolo Hawi [US/US 2015],f,PG Tiger,Bella Pohoa,25,76,0.32,25,6,5,499,36
+2018,33,105,DS Comet [US/US 2015],m,TMC's Remedy,DS Challenger,25,77,0.32,25,7,9,502,41
+2018,34,234,RPG Sharper [US/US 2015],m,Sure As,Rico's Borla,25,87,0.28,25,18,14,302,57
+2018,35,129,Fiesta Frontier [US/US 2016],m,Trent Lee,Mega Wilma,25,93,0.26,25,7,9,499,41
+2018,36,116,Fiesta Fort [US/US 2016],m,Bella Infrared,Kay Rock Sweet,25,111,0.22,25,7,13,499,45
+2018,37,114,Mac's Trudeaux [US/US 2016],m,Kiowa Mon Manny,Mac's Needlenose,24,65,0.36,24,11,13,541,48
+2018,38,131,Kelsos Gardenia [US/US 2015],f,Djays Octane,Kelsos Tuscany,24,67,0.35,24,10,2,502,36
+2018,39,126,Roc A By Rita [US/US 2016],f,BD's Grayson,Roc A By Msmolly,24,69,0.34,24,9,13,486,46
+2018,40,145,Flyin Kryptonite [US/US 2015],m,Flying Titanium,Flying Zinc,24,69,0.34,24,16,7,503,47
+2018,41,144,Katie Clawson [US/US 2016],f,Swahili Eile *,Lori Keith,24,72,0.33,24,8,8,503,40
+2018,42,174,Fly M Lotus [US/US 2015],m,NMS Sweet Thing,WKL Marly Carly,24,75,0.32,24,11,7,444,42
+2018,43,181,FM Wynter [US/US 2015],f,Kiowa Mon Manny,KL's Chloe,24,77,0.31,24,20,3,503,47
+2018,44,285,Ozark Benton [US/US 2015],m,Flying Coal City,C Ville Boots,24,114,0.21,24,19,10,499,53
+2018,45,276,Fiesta Fascinate [US/US 2016],f,Pat C Clement,Bella Diabolic,24,131,0.18,24,9,8,499,41
+2018,46,93,Super C Action [US/US 2016],m,Superior Panama,Sweet On Adele,23,45,0.51,23,9,4,502,36
+2018,47,180,AMF Incredulous [US/US 2015],f,AMF Ex President,AMF Wonderflash,23,53,0.43,23,8,3,286,34
+2018,48,135,Flying Glider [US/US 2015],f,Flyin Man of God,Flying Cynthiana,23,63,0.36,23,8,11,505,42
+2018,49,116,RF Hydra [US/US 2015],f,KC and All,AF Nala,23,63,0.36,23,10,10,503,43
+2018,50,142,JS Nibblesbquick [US/US 2016],f,Pat C Sabbath *,CH Keepin Faith,23,73,0.31,23,11,5,503,39
+2018,51,139,Flying Godzilla [US/US 2015],m,Iruska All Star,Flying Lipstick,23,74,0.31,23,9,7,504,39
+2018,52,199,Ozark Benji [US/US 2015],m,Flying Coal City,C Ville Boots,23,116,0.19,23,10,7,499,40
+2018,53,159,Rio Im A Lady [US/US 2014],f,Flying Penske,Flying Demaret,22,40,0.55,22,4,7,503,33
+2018,54,89,American Andale [US/US 2016],m,Superior Panama,Super C Alpine,22,52,0.42,22,7,8,519,37
+2018,55,85,Cabao [US/US 2016],f,SH Avatar,Blackstone,22,58,0.37,22,6,4,503,32
+2018,56,111,Barts Stand Out [US/US 2016],m,Kiowa Myth,Bartstrackmedown,22,60,0.36,22,12,11,503,45
+2018,57,224,SE's Punisher [US/US 2014],m,Pat C Clement,Demo Classy,22,65,0.33,22,12,10,503,44
+2018,58,74,Kentucky Rich [US/US 2016],m,Pat C Clement,Kentucky Fire,22,66,0.33,22,8,7,503,37
+2018,59,133,Vicki Of Ruckus [US/US 2016],f,KC and All,Erika of Ruckus,22,69,0.31,22,16,11,561,49
+2018,60,166,MW's T Rex [US/US 2016],m,Aerial Battle,MW Neptunia,22,70,0.31,22,16,9,498,47
+2018,61,251,Fiesta Tecoman [US/US 2016],m,Oshkosh Lamont,Mega India,22,101,0.21,22,19,17,499,58
+2018,62,191,WW Where Jules [US/US 2015],f,Pat C Clement,WW's Ravine,22,108,0.20,22,10,5,499,37
+2018,63,144,Fiesta Flyinhigh [US/US 2016],m,Pat C Clement,Bella Diabolic,22,114,0.19,22,19,10,499,51
+2018,64,58,EyesAppealing-iu [US/US 2016],f,Barcia Bale,Goldilocks,21,34,0.61,21,2,5,498,28
+2018,65,97,Superior Cannon [US 2015],m,Kiowa Sweet Trey,Superior Chacha,21,44,0.47,21,8,5,503,34
+2018,66,108,JS Range Rover [US/US 2016],m,Pat C Sabbath *,CH Keepin Faith,21,60,0.35,21,18,6,503,45
+2018,67,68,Edge Of Insanity [US/US 2016],f,KC and All,Livin Ona Prayer,21,65,0.32,21,11,13,499,45
+2018,68,142,Fiesta Nomad [US/US 2016],m,Bella Infrared,Mega Felpa,21,71,0.29,21,13,9,499,43
+2018,69,152,Par McBlack [US/US 2016],m,Quick McRunfast,Greer of Ruckus,21,72,0.29,21,9,10,349,40
+2018,70,209,JS Bail Me Out [US/US 2015],f,KC and All,JS Summer Hummer,21,74,0.28,21,20,10,503,51
+2018,71,174,LK's Countess [US/US 2016],f,Pat C Sabbath *,LK's Attitude,21,75,0.28,21,10,4,503,35
+2018,72,224,PJ Shut It Down [US/US 2014],f,Djays Octane,Ucme Fastromance,21,75,0.28,21,21,17,507,59
+2018,73,207,Braden Lee [US/US 2015],m,Starz Jenko,Kelsos Mandie,21,105,0.20,21,19,12,499,52
+2018,74,199,Fly Yellowstone [US/US 2016],m,Kiowa Myth,Flying Pipeline,21,124,0.16,21,24,20,499,65
+2018,75,68,JT's Blindnspeed [US/US 2016],m,Pat C Sabbath *,Julianne Hough,20,36,0.55,20,7,2,520,29
+2018,76,118,Grumpy Winner [US/US 2014],m,Who Says I Can't,Bee's a Winner,20,38,0.52,20,6,3,499,29
+2018,77,167,GLS Running Red [US/US 2014],m,Bella Infrared,Slatex Cadillac,20,49,0.40,20,8,5,503,33
+2018,78,75,Big Daddy Mack [US/US 2016],m,KC and All,Blazin Bonfire,20,57,0.35,20,11,5,451,36
+2018,79,104,Oshkosh Otto [US/US 2015],m,Oshkosh Drover,Oshkosh Quilla,20,58,0.34,20,11,11,503,42
+2018,80,147,JD Grady [US/US 2015],m,Flying Hydrogen,Now We Will Win,20,59,0.33,20,13,5,503,38
+2018,81,143,Dutch Doreen [US/US 2015],f,Dutch Magic,Djays Im a Star,20,61,0.32,20,14,6,503,40
+2018,82,82,Amanda Bynes [US/CN 2016],f,TMC's Remedy,Lorna's Cannon,20,62,0.32,20,7,7,498,34
+2018,83,70,SE's Fast Fanny [US/US 2016],f,Djays Octane,SE's Real Mccoy,20,63,0.31,20,6,8,502,34
+2018,84,136,KW Trix [US/US 2016],f,Barcelona Boss,AJ's Lil Peanut,20,63,0.31,20,5,3,502,28
+2018,85,84,Victori B Gee [US/US 2016],f,Deerfield Mover *,Jedi Freckles,20,68,0.29,20,7,9,503,36
+2018,86,164,In The Loop [US/US 2016],f,Barcelona Boss,Knit Picker,20,69,0.28,20,11,15,499,46
+2018,87,157,DK's Green Light [US/US 2015],m,SH Avatar,DK's Send All,20,71,0.28,20,7,14,503,41
+2018,88,174,Boc's Evander [US/US 2014],f,Flying Penske,Boc's C Kate Run,20,71,0.28,20,3,3,503,26
+2018,89,236,WW Each Row [US/US 2015],m,KC and All,WWK Sears,20,83,0.24,20,13,17,302,50
+2018,90,187,Janine Cody [US/US 2015],f,BD's Grayson,D's Pride,20,88,0.22,20,9,14,499,43
+2018,91,269,Ozark Benny [US/US 2015],f,Flying Coal City,C Ville Boots,20,90,0.22,20,13,12,499,45
+2018,92,181,Spirited Pooch [US/US 2016],m,Pat C Clement,Ocean Avenue,20,93,0.21,20,12,15,499,47
+2018,93,356,Lil Dun [US/US 2014],f,Flying Coal City,CTW Lilwhitelie,20,114,0.17,20,12,15,505,47
+2018,94,276,Flying Ridgeline [US/US 2016],m,Kiowa Myth,Flying Saldana,20,115,0.17,20,9,6,499,35
+2018,95,278,WW Pandora [US/US 2015],f,Shonn,WW's Wendy Polly,20,121,0.16,20,28,24,499,72
+2018,96,271,Flying Hippie [US/US 2015],f,Kiowa Myth,Roc A By Gypsy,20,126,0.15,20,16,13,499,49
+2018,97,389,Ozark Beverly [US/US 2015],f,Flying Coal City,C Ville Boots,20,129,0.15,20,17,17,499,54
+2018,98,89,LK's True Retro [US/US 2015],f,Barcelona Boss,LK's Cherokee,19,53,0.35,19,8,2,566,29
+2018,99,116,Mac's Gordiehowe [US/US 2016],m,Kiowa Mon Manny,Mac's Needlenose,19,69,0.27,19,15,10,509,44
+2018,100,273,Fiesta Duration [US/US 2015],m,Flying Penske,MV's Destiny,19,105,0.18,19,24,15,499,58
+2019,1,149,LK's Crush N It [US/US 2016],m,LK's Now R Never,LK's All In,49,66,0.74,49,8,3,503,60
+2019,2,145,Mega Horsepower [US/US 2017],m,Barcelona Boss,Kiowa Stay Close,46,96,0.47,46,28,8,499,82
+2019,3,110,Pat C News [US/US 2017],m,Rico's Vintage,Pat C April Oak,34,60,0.56,34,9,7,503,50
+2019,4,87,Mega Star [US/US 2017],f,Lonesome Cry,Bella Mary,32,57,0.56,32,15,5,499,52
+2019,5,99,GF La Duena [US/US 2016],f,KC and All,GF Sister Karen,31,48,0.64,31,7,4,302,42
+2019,6,202,Bella Funston [US/US 2016],m,Trent Lee,BW's Unida,31,68,0.45,31,5,4,499,40
+2019,7,73,Flying Givenchy [US/US 2017],m,Barcelona Boss,Flying Blush,29,55,0.52,29,16,3,503,48
+2019,8,122,Deco Colt Gun [US/US 2017],m,Deco Glen Lee,Tiger Girl,29,55,0.52,29,11,5,503,45
+2019,9,140,J Van Der Hooven [US/US 2016],f,KC and All,That Away,29,59,0.49,29,12,5,499,46
+2019,10,172,LK's Santorini [US/US 2017],f,LK's Vespar,LK's Chardonnay,29,69,0.42,29,14,6,503,49
+2019,11,158,Charming Nature [US/US 2016],m,SH Avatar,Hillsong United,29,81,0.35,29,13,6,503,48
+2019,12,72,Salud Raindrop [US/US 2017],f,Bella Infrared,Mega Whitney,28,38,0.73,28,3,3,533,34
+2019,13,142,Flying Zulu [US/US 2017],m,Barcelona Boss,Classy Senza,27,53,0.50,27,11,1,599,39
+2019,14,94,WW Trouble Maker [US/US 2017],m,Time Flies,WW Sparks Flying,27,62,0.43,27,17,5,413,49
+2019,15,97,Mega Silent [US/US 2017],f,Trent Lee,Volando Zodiac,27,65,0.41,27,21,8,499,56
+2019,16,115,LK's Alexis [US/US 2016],f,LK's Vespar,Plover Drive,26,55,0.47,26,10,4,503,40
+2019,17,135,Super C Azelle [US/US 2016],f,Superior Panama,Sweet On Adele,25,55,0.45,25,13,2,503,40
+2019,18,212,Mega Strength [US/US 2017],m,Mega Rice,Mega Manilva,25,103,0.24,25,31,17,499,73
+2019,19,160,L's Griz [US/US 2016],m,KC and All,L's Rovi,24,53,0.45,24,15,6,501,45
+2019,20,80,Coach Fondue [US/US 2017],f,Flying Fired Up,Coach Unwilling,24,55,0.43,24,2,6,302,32
+2019,21,234,Nib's Natasha [US/US 2016],f,Pat C Clement,Gable Niblets,24,101,0.23,24,25,12,499,61
+2019,22,159,JD Revelation [US/US 2016],f,KC and All,JD Andromeda,23,45,0.51,23,7,5,503,35
+2019,23,129,JSK Roulette [US/US 2016],f,Djays Octane,JSK Shannon Lea,23,47,0.48,23,9,5,492,37
+2019,24,174,LK's Countess [US/US 2016],f,Pat C Sabbath *,LK's Attitude,23,77,0.29,23,10,8,503,41
+2019,25,114,Mac's Trudeaux [US/US 2016],m,Kiowa Mon Manny,Mac's Needlenose,22,49,0.44,22,8,8,592,38
+2019,26,209,JS Bail Me Out [US/US 2015],f,KC and All,JS Summer Hummer,22,64,0.34,22,13,10,503,45
+2019,27,130,BD Wells [US/US 2016],m,Fuzzys Cannon,BD Elizabeth,22,67,0.32,22,8,5,521,35
+2019,28,129,WW Thank Alot [US/US 2016],f,KC and All,WW's Irish Jig,22,73,0.30,22,18,7,302,47
+2019,29,86,AJN Ed Haddock [US/US 2016],m,SE's Charlie,HS Margerie,22,76,0.28,22,22,8,503,52
+2019,30,419,Mega Offset [US/US 2017],f,Barcelona Boss,Kiowa Mower,22,100,0.22,22,19,13,499,54
+2019,31,84,JS Flamin Ace [US/US 2017],m,Superior Panama,CH Sweet Honey,21,43,0.48,21,6,4,533,31
+2019,32,77,Imark Grande [US/US 2016],m,Pat C Clement,Windy Bev,21,49,0.42,21,4,7,514,32
+2019,33,109,O Ya Ice Man [US/US 2016],m,Kiowa Mon Manny,O Ya Victoria,21,50,0.42,21,13,4,593,38
+2019,34,124,Go Bon Jane Doe [US/US 2017],f,Barcelona Boss,Go Bon Wego,21,63,0.33,21,11,5,501,37
+2019,35,201,Hashtag Hellcat [US/US 2015],m,Chasin the Richs,Toni Works,21,63,0.33,21,8,5,503,34
+2019,36,123,Kiyoko [US/US 2016],f,SH Avatar,Blackstone,21,64,0.32,21,6,7,503,34
+2019,37,127,BD Monty [US/US 2016],f,Fuzzys Cannon,BD Elizabeth,21,72,0.29,21,6,15,503,42
+2019,38,158,Dennis Weaver [US 2016],m,Djays Octane,SE's Tali Danger,21,74,0.28,21,8,14,503,43
+2019,39,124,LK's Livin Lucky [US/US 2016],f,LK's Vespar,Plover Drive,21,75,0.28,21,16,7,503,44
+2019,40,114,Canaan Tigress [US/US 2017],f,Barcelona Boss,Tiger In Woods,21,77,0.27,21,8,11,505,40
+2019,41,85,Slatex Jeeves [US/US 2017],m,Need My Moneynow,Slatex Selene,20,46,0.43,20,7,4,505,31
+2019,42,160,Windy Hazel [US/US 2016],f,Djays Octane,Tortuga Gift,20,47,0.42,20,11,4,503,35
+2019,43,146,RPG Get You Back [US/US 2017],f,Rico's Vintage,JW Calamity Jane,20,48,0.41,20,3,5,603,28
+2019,44,103,DS Bubbles [US/US 2016],f,Gold Town *,DS Libra,20,60,0.33,20,7,7,503,34
+2019,45,143,Klay Thompson [US/US 2016],m,Flying Coal City,Flying Felicity,20,61,0.32,20,15,3,593,38
+2019,46,135,FGF Heartbreaker [US/US 2017],f,AMF Bad Bounce,KF's Luckyticket,20,66,0.30,20,11,8,530,39
+2019,47,152,Oshkosh Ipod [US/US 2017],f,Dyna Nalin *,Oshkosh Fantasia,20,67,0.29,20,13,7,503,40
+2019,48,194,TNT Free Falling [US/US 2016],f,Flying Fired Up,Go Bon Freebee,20,67,0.29,20,12,13,501,45
+2019,49,89,AJN Crimson Tide [US/US 2017],m,WW Time Warp,Cahillusmarshall,20,68,0.29,20,8,5,302,33
+2019,50,150,Quest Forsuccess [US/US 2016],m,Flare Gun,Atascocita Tiera,20,68,0.29,20,20,6,603,46
+2019,51,109,Plum Crazy [US/US 2017],f,Cayman Went,JS Luck B A Lady,20,70,0.28,20,6,9,499,35
+2019,52,96,PR Diesel [US/US 2016],m,RCK Iron Warrior,RCK Lady Nile,20,89,0.22,20,10,12,503,42
+2019,53,288,Mega Premium [US/US 2017],f,Mega Rice,Mega Manilva,20,108,0.18,20,10,4,499,34
+2019,54,89,CG's Penny Shoe [US/US 2017],m,Jax Oxford,CG's Marla,19,33,0.57,19,5,1,502,25
+2019,55,66,Good Win Bob [US/US 2017],m,Pat C Sabbath *,Love Bites,19,36,0.52,19,7,0,533,26
+2019,56,47,Gettin The Money [US/US 2017],m,Offthebrakedrake,Goodluck Topaz,19,36,0.52,19,5,4,498,28
+2019,57,105,Undehfeetedd [US/US 2016],m,Dewzee,Nyari,19,39,0.48,19,11,3,503,33
+2019,58,100,MRL Full Boat [US 2016],m,CTW Pipe Down,MRL Goin Bye Bye,19,40,0.47,19,8,8,551,35
+2019,59,49,LR Iowa Choice [US/US 2017],m,Top Of The Pile,Springisintheair,19,41,0.46,19,4,4,533,27
+2019,60,154,Flamenco Dancer [US/US 2016],f,Barcelona Boss,Lets Go Flying,19,48,0.39,19,15,1,503,35
+2019,61,115,Fly L Sailor [US/US 2017],m,Barcelona Boss,UB A Sensation,19,49,0.38,19,9,8,333,36
+2019,62,50,Mega Malyan [US/US 2017],f,PG Tiger,Mega Gone,19,50,0.38,19,10,7,499,36
+2019,63,112,High Wire Willy [US/US 2016],m,CTW Lyle Lyndon,CTW Proper Girl,19,56,0.33,19,8,7,302,34
+2019,64,83,TNT Coal Trickle [US/US 2016],m,Flying Coal City,Mustang Cat,19,57,0.33,19,9,5,422,33
+2019,65,157,L's Luv It [US/US 2016],f,KC and All,L's Morgan,19,58,0.32,19,11,8,501,38
+2019,66,148,Mac's Dirt Diver [US/US 2016],m,KC and All,Mac's Magnolia,19,59,0.32,19,7,7,503,33
+2019,67,138,Braska Rebel [US/US 2016],m,Defrim Bale *,Gracie of Ruckus,19,60,0.31,19,8,2,539,29
+2019,68,102,AJN Crusecontrol [US/US 2017],m,Barcelona Boss,Kiowa Kay Snowy,19,61,0.31,19,6,9,503,34
+2019,69,157,MVP Dawg [US/US 2016],m,Pat C Clement,Ocean Avenue,19,61,0.31,19,11,8,499,38
+2019,70,116,FGF Pass You By [US/US 2017],f,AMF Bad Bounce,KF's Luckyticket,19,62,0.30,19,13,9,503,41
+2019,71,134,Practical Joke [US/US 2016],m,KC and All,Livin Ona Prayer,19,67,0.28,19,7,4,503,30
+2019,72,171,Reble Fremont St [US/US 2016],m,Kiowa Mon Manny,Lori Keith,19,68,0.27,19,10,1,503,30
+2019,73,132,WW Wasabi [US/US 2017],f,Last Outlaw,WW's Herblike,19,69,0.27,19,7,4,503,30
+2019,74,182,O Ya Smack Down [US/US 2016],m,Kiowa Mon Manny,O Ya Victoria,19,69,0.27,19,13,12,503,44
+2019,75,125,Rams Bullseye [US/US 2016],m,Super Lee,Rams Wickedwanda,19,73,0.26,19,20,11,302,50
+2019,76,150,Flying Sabotage [US/US 2016],m,Flying Fired Up,Flying Trooper,19,77,0.24,19,6,12,503,37
+2019,77,484,Dominika Egorova [US/US 2016],f,Pat C Clement,Flying Norma,19,86,0.22,19,14,18,499,51
+2019,78,167,Stone Hearted [US/US 2016],m,Flying Coal City,RCK Sundancer,19,89,0.21,19,13,7,503,39
+2019,79,133,Bella Blitz [US/US 2017],f,Flyin Man of God,Spurraddehc,19,93,0.20,19,10,8,499,37
+2019,80,111,Mac's Glightfoot [US/US 2016],m,Kiowa Mon Manny,Mac's Needlenose,18,35,0.51,18,7,2,619,27
+2019,81,131,Kelsos Gardenia [US/US 2015],f,Djays Octane,Kelsos Tuscany,18,40,0.45,18,8,2,503,28
+2019,82,97,Pat C Zoe [US/US 2016],f,KC and All,Pat C Dark Ciena,18,41,0.43,18,6,6,503,30
+2019,83,108,Flying Prentiss [US/US 2017],f,Barcelona Boss,Flying Genovese,18,44,0.40,18,8,5,503,31
+2019,84,96,B Mike Jameson [US/US 2017],m,Lenson Sanchez *,B My Merlot,18,46,0.39,18,10,4,506,32
+2019,85,105,Hashtag Queen [US/US 2016],f,Kiowa Sweet Trey,Bucerias de Amor,18,50,0.36,18,9,8,503,35
+2019,86,65,Palm City Tyler [US/US 2017],m,Atascocita Gray,Skate Parchy,18,51,0.35,18,4,11,498,33
+2019,87,85,Pat C Sly Murray [US/US 2017],m,Pat C Clement,Pat C Deception,18,56,0.32,18,7,14,506,39
+2019,88,92,Pat C Dragnet [US/US 2017],m,Pat C Clement,Pat C Ok,18,56,0.32,18,10,2,503,30
+2019,89,95,Lonesome Jones [US/US 2016],m,CTW Base Camp,Blazin Booty,18,56,0.32,18,10,6,498,34
+2019,90,83,DS Queenie [US/US 2015],f,Gable Dodge,DS Yoyo,18,62,0.29,18,2,5,503,25
+2019,91,154,JS Drinkmepretty [US/US 2017],f,Pat C Clement,JS Angel Touch,18,62,0.29,18,12,11,501,41
+2019,92,109,Big Backlash [US/US 2017],m,Barcelona Boss,B's Elite Wendy,18,64,0.28,18,4,6,503,28
+2019,93,152,Par McBlack [US/US 2016],m,Quick McRunfast,Greer of Ruckus,18,65,0.27,18,9,11,302,38
+2019,94,93,Super C Casino [US/US 2017],f,SH Avatar,Super C Cooney,18,67,0.26,18,12,11,503,41
+2019,95,150,Bella Riddick [US/US 2017],m,Flyin Man of God,Spurraddehc,18,70,0.25,18,13,8,499,39
+2019,96,142,Volando Nolan [US/US 2017],m,Starz Jenko,Volando Nancy,18,71,0.25,18,14,7,499,39
+2019,97,155,Play Itagain Sam [US/US 2016],m,Pat C Clement,Ocean Avenue,18,73,0.24,18,6,4,503,28
+2019,98,109,AJN Jed Tyre [US/US 2016],m,SE's Charlie,HS Margerie,18,89,0.20,18,9,12,503,39
+2019,99,239,Fiesta Iguala [US/US 2016],f,Oshkosh Lamont,Mega India,18,106,0.16,18,2,6,499,26
+2019,100,72,AJN Little Money [US/US 2017],f,Need My Moneynow,TB's Torque,17,54,0.31,17,10,6,503,33
+2020,1,172,LK's Santorini [US/US 2017],f,LK's Vespar,LK's Chardonnay,32,58,0.55,32,11,7,503,50
+2020,2,66,Slatex Dareen [US/US 2018],f,Flying Wolf Pack,Slatex Diamond,30,59,0.50,30,11,7,499,48
+2020,3,134,Killer Tolstoy [US/US 2018],m,Superior Panama,Killer Torina,29,60,0.48,29,10,6,503,45
+2020,4,111,LK's Effingham [US/US 2017],f,LK's Now R Never,LK's Imagine It,29,70,0.41,29,7,8,503,44
+2020,5,149,LK's Crush N It [US/US 2016],m,LK's Now R Never,LK's All In,28,61,0.45,28,12,9,503,49
+2020,6,146,RPG Get You Back [US/US 2017],f,Rico's Vintage,JW Calamity Jane,28,65,0.43,28,10,1,520,39
+2020,7,289,Higher Ups [US/US 2018],f,Superior Panama,Dutch Becall,27,57,0.47,27,10,2,499,39
+2020,8,89,CG's Penny Shoe [US/US 2017],m,Jax Oxford,CG's Marla,26,45,0.57,26,5,8,502,39
+2020,9,72,Shopify [US/US 2018],f,Superior Panama,Dutch Hilary,26,55,0.47,26,11,8,499,45
+2020,10,160,Yolo Sky [US/US 2018],f,AB Saint Gaudens,Kuhmareoh,25,69,0.36,25,18,15,499,58
+2020,11,108,Volando Vapor [US/US 2018],m,Flying Fired Up,Volando Sarena,24,67,0.35,24,13,11,499,48
+2020,12,108,LK's Country Gal [US/US 2017],f,LK's Now R Never,LK's Imagine It,24,70,0.34,24,11,6,503,41
+2020,13,144,Boise [US/US 2017],f,Super Lee,Blackjack Lola,23,40,0.57,23,2,2,275,27
+2020,14,207,Nib's Natty [US/US 2016],f,Pat C Clement,Gable Niblets,23,70,0.32,23,8,7,499,38
+2020,15,112,Pat C Ram Rod [US/US 2018],m,Need My Moneynow,Boc's Brickhouse,22,41,0.53,22,9,4,518,35
+2020,16,141,Mo's Live Oak [US/US 2017],f,Jax Oxford,Mo's Aces High,22,48,0.45,22,5,4,513,31
+2020,17,166,Mega Sneezy [US/US 2017],f,Barcelona Boss,Flying Bronze,22,62,0.35,22,10,6,499,38
+2020,18,148,Yolo Amelia [US/US 2018],f,Mega Rice,Flying Antigua,22,74,0.29,22,17,7,499,46
+2020,19,77,Hi Noon Recoil [US/US 2018],m,SH Avatar,Hi Noon Wheezy,21,56,0.37,21,12,7,503,40
+2020,20,78,Shoot The Breeze [US/US 2017],m,Trent Lee,Danicas Go Daddy,20,41,0.48,20,8,4,504,32
+2020,21,83,LK's Buttercup [US/US 2018],m,SH Avatar,Kiowa Leer Kay,20,49,0.40,20,7,7,503,34
+2020,22,122,Deco Colt Gun [US/US 2017],m,Deco Glen Lee,Tiger Girl,20,53,0.37,20,15,9,503,44
+2020,23,101,Flying Stark [US/US 2017],m,Barcelona Boss,Flying Valkyrie,20,63,0.31,20,11,7,518,38
+2020,24,90,Bella Harper [US/US 2018],f,Flying Fired Up,Mega Process,20,71,0.28,20,9,4,499,33
+2020,25,121,Volando Target [US/US 2018],m,Oshkosh Lamont,Bella Amazon,20,72,0.27,20,21,6,499,47
+2020,26,234,Mega Tall Tale [US/US 2018],m,Kiowa Myth,Bella Gigan,20,77,0.25,20,17,7,499,44
+2020,27,105,Abbi's Frontman [US/US 2018],m,Superior Panama,Abs Almighty,19,33,0.57,19,6,2,498,27
+2020,28,48,FF Lurch [US/US 2018],m,SH Avatar,FF Lonely Blonde,19,46,0.41,19,1,4,509,24
+2020,29,166,Good Liar [US/US 2018],f,Superior Panama,Dutch Becall,19,57,0.33,19,10,10,499,39
+2020,30,104,FGF Pearl Jam [US/US 2018],f,SH Avatar,KF's Newsmaker,19,66,0.28,19,12,12,518,43
+2020,31,103,Jay's Abu [US/US 2018],m,Crown And Crest,SE's Petes Girl,19,68,0.27,19,14,14,481,47
+2020,32,237,Bella Cya [US/US 2018],f,Bella Cubanaro,Fiesta Alibi,19,75,0.25,19,11,10,499,40
+2020,33,70,Kaias Alex [US/US 2017],m,Djays Octane,Ethereal Elation,18,32,0.56,18,7,3,503,28
+2020,34,35,GLS Free Roll [US/US 2018],m,Flying Wolf Pack,Killer Carew,18,35,0.51,18,3,6,503,27
+2020,35,142,Flying Zulu [US/US 2017],m,Barcelona Boss,Classy Senza,18,37,0.48,18,5,2,623,25
+2020,36,115,KBR Ariel [US/US 2018],f,Super Lee,HS Turbine,18,52,0.34,18,10,6,498,34
+2020,37,85,Mineral Spirits [US/US 2018],m,Who Says I Can't,Good Luck Ruby,18,55,0.32,18,10,7,499,35
+2020,38,115,Hi Noon Ricochet [US/US 2018],m,SH Avatar,Hi Noon Wheezy,18,60,0.30,18,10,7,503,35
+2020,39,112,JD Ghost In You [US/US 2017],m,KC and All,JD Happy Tears,18,62,0.29,18,11,5,502,34
+2020,40,128,JD Tonic [US/US 2017],f,Pat C Clement,KC Set Em Up,18,64,0.28,18,10,4,501,32
+2020,41,82,Chillaxification [US/US 2017],m,Shonn,Wreckuhlect,17,38,0.44,17,9,5,533,31
+2020,42,85,JD Android [US/US 2017],f,JD Titanium,AllisonRacinTeam,17,40,0.42,17,5,0,605,22
+2020,43,148,WW Slick Simon [US/US 2017],m,Kiowa Producer *,WW's Polished,17,47,0.36,17,8,5,501,30
+2020,44,108,WW Sky Walker [US/US 2017],m,Pat C Clement,WW Sweet Gretch,17,54,0.31,17,12,6,503,35
+2020,45,156,Pat C Inferno [US/US 2017],f,Flying Fired Up,Pat C Pop In,17,59,0.28,17,9,6,498,32
+2020,46,86,Pat C Shortail [US/US 2017],m,Pat C Short Cut,Pat C Bs Rapidly,17,65,0.26,17,14,6,355,37
+2020,47,142,Lee Endo [US/US 2017],m,Kiowa Mon Manny,Lee Odyssey,17,65,0.26,17,6,7,503,30
+2020,48,370,Yolo Isabella [US/US 2018],f,Mega Rice,Flying Antigua,17,68,0.25,17,15,6,499,38
+2020,49,60,Del Sol Sandra [US/US 2018],f,Fiesta Paraguas,Mega Goleta,16,30,0.53,16,3,4,499,23
+2020,50,99,JS Liv N Fast [US/US 2018],f,Show On The Road,JS E Z Livin,16,33,0.48,16,7,4,504,27
+2020,51,68,Smackdab [US/US 2017],f,SE Tali Sundance,Dutch Hilary,16,33,0.48,16,2,4,499,22
+2020,52,92,Rafe Up Theriver [US/US 2017],m,CTW Pipe Down,Lonely Heart,16,37,0.43,16,6,4,501,26
+2020,53,120,Air Ace [US/US 2018],m,Need My Moneynow,Fly Miley Cyrus,16,39,0.41,16,3,3,537,22
+2020,54,96,CG's Sneaker [US/US 2017],f,Jax Oxford,CG's Marla,16,44,0.36,16,6,7,502,29
+2020,55,159,Wagging The Dog [US/US 2018],m,Top Of The Pile,Enjoying Life,16,47,0.34,16,7,5,416,28
+2020,56,88,Barts Sea Hawk [US/US 2017],m,Gold Town *,Seadon Traveler,16,47,0.34,16,7,4,498,27
+2020,57,119,KB's Blinko [US/US 2017],m,Atascocita Gray,KB's Hot Pepper,16,47,0.34,16,6,3,501,25
+2020,58,83,Yolo Miguel [US/US 2018],m,Mega Rice,Flying Antigua,16,48,0.33,16,4,2,499,22
+2020,59,136,Volando Nevada [US/US 2017],f,Starz Jenko,Volando Nancy,16,48,0.33,16,15,9,499,40
+2020,60,134,JS Kool Kash [US/US 2017],m,SH Avatar,JS Kerry Oki,16,48,0.33,16,6,7,503,29
+2020,61,100,Dead To Me [US/US 2018],f,SH Avatar,DK's Fish Bone,16,49,0.32,16,4,1,504,21
+2020,62,62,Jays Crownjewel [US/US 2018],f,Crown And Crest,SE's Petes Girl,16,54,0.29,16,7,14,503,37
+2020,63,58,Pat C Forgone [US/US 2017],f,Pat C Valdes,Pat C Whereby,16,57,0.28,16,8,5,503,29
+2020,64,377,Yolo Vaughn [US/US 2018],m,Starz Jenko,Fiesta Lane,16,60,0.26,16,13,9,499,38
+2020,65,76,BGR The Fighter [US/US 2018],m,Superior Panama,Boc's Posh Spice,16,62,0.25,16,11,6,503,33
+2020,66,99,VJ Jamin Jamie [US/US 2017],f,Jack's Big Lad,Taa Taa For Now,16,66,0.24,16,12,11,499,39
+2020,67,93,Fiesta Las Tunas [US/US 2018],f,Bella Cubanaro,Mega Trina,16,71,0.22,16,11,14,499,41
+2020,68,310,Mega Chameleon [US/US 2017],f,Shonn,Mega Bien Hecho,16,73,0.21,16,10,10,499,36
+2020,69,344,Bella Truthful [US/US 2018],m,Bella Cubanaro,Fiesta Alibi,16,77,0.20,16,6,8,499,30
+2020,70,41,Mac's Veyron [US/US 2018],m,Djays Octane,Mac's Mariposa,15,24,0.62,15,3,2,503,20
+2020,71,72,FGF Mathias [US/US 2018],m,SH Avatar,FGF Jamboree,15,29,0.51,15,8,4,567,27
+2020,72,87,Mega Star [US/US 2017],f,Lonesome Cry,Bella Mary,15,30,0.50,15,11,1,499,27
+2020,73,84,JS Flamin Ace [US/US 2017],m,Superior Panama,CH Sweet Honey,15,30,0.50,15,6,2,533,23
+2020,74,57,Rasta [US/US 2018],m,Nashapelli,Fansome,15,31,0.48,15,8,2,596,25
+2020,75,129,WW Xavier [US/US 2016],m,Kiowa WW Brother,WW's Saints,15,32,0.46,15,8,2,305,25
+2020,76,49,Craigie Pirate [US/US 2018],m,Pat C Clement,Craigie Kassidy,15,34,0.44,15,5,5,501,25
+2020,77,106,Opal Long [US/US 2018],f,Pat C Clement,Winta Garoppolo,15,42,0.35,15,8,2,498,25
+2020,78,148,Bug Brush [US/US 2018],m,SH Avatar,Flying Lipstick,15,42,0.35,15,13,5,502,33
+2020,79,121,Lady Deuce [US/US 2017],f,Pat C Clement,Marie Laveau,15,44,0.34,15,11,4,503,30
+2020,80,47,Oakland Taunton [US/US 2018],f,SH Avatar,Ainsley Earhardt,15,47,0.31,15,6,9,558,30
+2020,81,63,Volando Scarlet [US/US 2018],f,Oshkosh Lamont,Bella Amazon,15,48,0.31,15,6,9,499,30
+2020,82,333,Between The Linz [US/US 2018],m,Top Of The Pile,Enjoying Life,15,52,0.28,15,9,8,499,32
+2020,83,109,KB's Axelrod [US/US 2018],m,Gigawatt,KB's Santa Ana,15,52,0.28,15,9,3,520,27
+2020,84,111,Superior Piper [US/US 2018],f,Pat C Clement,Superior Cinch,15,57,0.26,15,6,5,498,26
+2020,85,265,WW Lager [US/US 2018],m,Crown And Crest,WW's Black Gold,15,59,0.25,15,9,5,411,29
+2020,86,91,XK On Top [US/US 2017],f,Flying Westover,RJ's Emily,15,61,0.24,15,10,15,598,40
+2020,87,106,Squeallike Thiel [US/US 2017],m,Barcelona Boss,PJ Sour Diesel,15,62,0.24,15,4,4,503,23
+2020,88,128,Yolo Aroma [US/US 2018],f,Nashapelli,Flying Satin,15,63,0.23,15,15,5,499,35
+2020,89,158,BGR Goingoingone [US/US 2018],m,Superior Panama,Boc's Heatin Up,15,64,0.23,15,7,10,503,32
+2020,90,159,Something Bad [US/US 2018],m,Superior Panama,PJ Sour Diesel,15,70,0.21,15,8,4,503,27
+2020,91,31,FGF Branch [US/US 2018],m,SH Avatar,FGF Jamboree,14,30,0.46,14,8,5,533,27
+2020,92,86,Revin Devon [US/US 2017],m,U Too Pure Silk,Fire and Heat,14,31,0.45,14,5,3,503,22
+2020,93,157,L's Luv It [US/US 2016],f,KC and All,L's Morgan,14,44,0.31,14,9,5,501,28
+2020,94,69,TR's Hammy [US/US 2018],m,Superior Panama,Kiowa Montgomery,14,47,0.29,14,6,0,503,20
+2020,95,77,LK's Molinari [US/US 2018],m,LK's Now R Never,LK's Whispering,14,54,0.25,14,9,10,503,33
+2020,96,68,Jays Crown Royal [US/US 2018],m,Crown And Crest,SE's Petes Girl,14,56,0.25,14,12,7,503,33
+2020,97,157,KB's Singer [US/US 2018],f,Gigawatt,KB's Santa Ana,14,56,0.25,14,7,5,538,26
+2020,98,173,Shoot For D Moon [US/US 2017],f,Trent Lee,Danicas Go Daddy,14,64,0.21,14,13,10,503,37
+2020,99,129,Phantom Petunia [US/US 2017],f,Barcelona Boss,Magic Violet,14,64,0.21,14,8,16,503,38
+2020,100,234,Nib's Natasha [US/US 2016],f,Pat C Clement,Gable Niblets,14,73,0.19,14,20,9,499,43
