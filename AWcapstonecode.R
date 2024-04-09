@@ -161,18 +161,30 @@ testing.data = greyhounds.data[-training.id,]
 #find optimal linear regression model
 lm.full <- lm(CareerRaces~.,data = training.data)
 summary(lm.full)
+anova(lm.full)
 lm.AIC <- step(lm.full, direction="both",trace=FALSE,steps=1000,k=2)
 summary(lm.AIC)
+anova(lm.AIC)
 lm.BIC <- step(lm.full, direction="both",trace=FALSE,steps=1000,k=log(460))
 summary(lm.BIC)
 
+#Calculating evaluation stats (SSR and F-score) on testing data
 Y.hat.full = predict(lm.full, newdata=testing.data)
 full.error = sum((CareerRaces[-training.id]-Y.hat.full)^2)
 full.error
+n <- nrow(testing.data)
+p <- ncol(testing.data) - 1
+SST.full <- sum((testing.data$CareerRaces - mean(testing.data$CareerRaces))^2)
+Fscore.full <- ((SST.full - full.error) / (p - 1)) / (full.error / (n - p))
+Fscore.full
 
+#Calculating evaluation stats (SSR and F-score) on testing data
 Y.hat.AIC = predict(lm.AIC, newdata=testing.data)
 AIC.error = sum((CareerRaces[-training.id]-Y.hat.AIC)^2)
 AIC.error
+SST.AIC <- sum((testing.data$CareerRaces - mean(testing.data$CareerRaces))^2)
+Fscore.AIC <- ((SST.AIC - AIC.error) / (p - 1)) / (AIC.error / (n - p))
+Fscore.AIC
 
 #Pruned tree model
 install.packages('tree')
@@ -181,11 +193,18 @@ unpr.fit.tree = tree(CareerRaces~., data=training.data)
 treeresult <- cv.tree(unpr.fit.tree, K=10, FUN=prune.tree)
 plot(treeresult)
 greyhounds.besttree <- prune.tree(unpr.fit.tree,best=9)
-summary(greyhounds.besttree)
+greyhounds.besttree$rsq
 
+#Calculating evaluation stats (SSR and F-score) on testing data
 Y.hat.tree = predict(greyhounds.besttree,newdata=testing.data)
 tree.error = sum((CareerRaces[-training.id]-Y.hat.tree)^2)
 tree.error
+
+n <- nrow(testing.data)
+p <- ncol(testing.data) - 1
+SST.tree <- sum((testing.data$CareerRaces - mean(testing.data$CareerRaces))^2)
+Fscore.tree <- ((SST.tree - tree.error) / (p - 1)) / (tree.error / (n - p))
+Fscore.tree
 
 #Random Forest model
 install.packages("randomForest")
@@ -193,8 +212,13 @@ library(randomForest)
 fit.RF <- randomForest(CareerRaces~.,data=training.data,ntree=100,mtry=2)
 summary(fit.RF)
 
+#Calculating evaluation stats (SSR and F-score) on testing data
 Y.hat.RF = predict(fit.RF,newdata=testing.data)
 RF.error = sum((CareerRaces[-training.id]-Y.hat.RF)^2)
 RF.error
+
+SST.rf <- sum((testing.data$CareerRaces - mean(testing.data$CareerRaces))^2)
+Fscore.rf <- ((SST.rf - RF.error) / (p - 1)) / (RF.error / (n - p))
+Fscore.rf
 
 
